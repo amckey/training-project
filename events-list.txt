@@ -1,0 +1,14 @@
+[
+ {
+  "sport": "Football",
+  "place": "Olimpia",
+  "date": "12.08.2020",
+  "time": "19:00"
+ },
+ {
+  "sport": "Football",
+  "place": "Daugava stadium",
+  "date": "14.08.2020",
+  "time": "19:00"
+ }
+]
