@@ -13,7 +13,6 @@ class Event {
         this.date = date;
         this.time = time;
     }
-
 }
 
 class EventList {
